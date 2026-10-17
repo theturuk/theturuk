@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm @theturuk 👋
 
-<!--
-**theturuk/theturuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer** passionate about building scalable web applications, automation frameworks, and AI-powered workflows.
 
-Here are some ideas to get you started:
+#### 🚀 What I Work With
+- **Web & Frontend:** Next.js, React, Tailwind CSS, TypeScript, Modern E-Commerce Architectures
+- **Backend & Automation:** Node.js, Python, REST APIs, Custom Scrapers & Browser Automation
+- **AI & Tooling:** Local LLMs (Ollama), MCP Servers, AI Coding Agents & Workflow Integration
+- **Mobile & Network:** Android Development, Proxy/Tunneling Protocols, Network Utilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Connect with Me
+- 🌐 Portfolio / Website: [Your Website Link]
+- 💼 LinkedIn: [Your LinkedIn Link]

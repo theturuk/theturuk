@@ -3,12 +3,12 @@
   <!-- DYNAMIC ANIMATED HEADER -->
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f172a,100:00ffcc&height=240&section=header&text=theturuk&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Automation%20Architect%20%7C%20AI%20Workflows&descAlignY=65&descSize=18&stroke=00ffcc&strokeWidth=1" width="100%" alt="Header Banner" />
 
-  <!-- ANIMATED TYPING SVG -->
+  <!-- ANIMATED TYPING SVG (SINGLE LINE TERMINAL EFFECT - FIXED OVERFLOW) -->
   <a href="https://github.com/theturuk">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=%3E+Architecting+Scalable+Web+Apps+%26+High-Speed+Automation+Systems...;%3E+Integrating+Local+LLMs+(Ollama)%2C+MCP+Servers+%26+Autonomous+AI+Agents...;%3E+Engineering+Custom+Scrapers%2C+Proxy+Tunnels+%26+Network+Solutions..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=45&lines=%3E+Architecting+Scalable+Web+Apps+%26+High-Speed+Automation+Systems...;%3E+Integrating+Local+LLMs+(Ollama)%2C+MCP+Servers+%26+Autonomous+AI+Agents...;%3E+Engineering+Custom+Scrapers%2C+Proxy+Tunnels+%26+Network+Solutions..." alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <!-- SOCIAL & PROFILE BADGES -->
   <p align="center">
@@ -140,13 +140,20 @@ graph LR
 
 <div align="center">
   
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=theturuk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=theturuk&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ffcc&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" alt="GitHub Streak" />
+  <!-- SIDE BY SIDE STATS CARDS -->
+  <a href="https://github.com/theturuk">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=theturuk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/theturuk">
+    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=theturuk&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ffcc&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" alt="GitHub Streak" />
+  </a>
 
   <br/><br/>
 
-  <!-- ACTIVITY GRAPH -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theturuk&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" width="98%" alt="Activity Graph" />
+  <!-- GITHUB TROPHIES (REPLACED BROKEN ACTIVITY GRAPH) -->
+  <a href="https://github.com/theturuk">
+    <img src="https://github-profile-trophy.vercel.app/?username=theturuk&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%" alt="GitHub Trophies" />
+  </a>
 
 </div>
 

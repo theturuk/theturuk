@@ -3,7 +3,7 @@
   <!-- DYNAMIC ANIMATED HEADER -->
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f172a,100:00ffcc&height=240&section=header&text=theturuk&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Automation%20Architect%20%7C%20AI%20Workflows&descAlignY=65&descSize=18&stroke=00ffcc&strokeWidth=1" width="100%" alt="Header Banner" />
 
-  <!-- ANIMATED TYPING SVG (SINGLE LINE TERMINAL EFFECT - FIXED OVERFLOW) -->
+  <!-- ANIMATED TYPING SVG (SINGLE LINE TERMINAL EFFECT) -->
   <a href="https://github.com/theturuk">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=45&lines=%3E+Architecting+Scalable+Web+Apps+%26+High-Speed+Automation+Systems...;%3E+Integrating+Local+LLMs+(Ollama)%2C+MCP+Servers+%26+Autonomous+AI+Agents...;%3E+Engineering+Custom+Scrapers%2C+Proxy+Tunnels+%26+Network+Solutions..." alt="Typing SVG" />
   </a>
@@ -117,15 +117,15 @@ core_domains:
 
 ---
 
-### 🧬 `architecture_focus` // Neler İnşa Ediyorum?
+### 🧬 `architecture_focus` // Sistem Mimarisi & İş Akışı
 
 ```mermaid
 graph LR
-    A[Client / Next.js UI] -->|Edge API / Cloudflare| B(Node.js & Python Core)
-    B --> C{theturuk Engine}
-    C -->|Stealth & Proxies| D[Browser Automation & Scrapers]
-    C -->|MCP Protocol| E[Local LLMs / Ollama Agents]
-    C -->|Tunneling| F[Android & Network Utilities]
+    A[Next.js UI] -->|Cloudflare Edge| B(Node & Python)
+    B --> C{theturuk Core}
+    C -->|Stealth| D[Web Scrapers]
+    C -->|MCP| E[Ollama AI Agents]
+    C -->|Tunnels| F[Android & Net]
     style A fill:#0f172a,stroke:#00ffcc,stroke-width:2px,color:#fff
     style B fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#fff
     style C fill:#000000,stroke:#00ffcc,stroke-width:3px,color:#00ffcc
@@ -136,7 +136,7 @@ graph LR
 
 ---
 
-### 📊 `telemetry` // GitHub İstatistikleri & Aktivite
+### 📊 `telemetry` // GitHub İstatistikleri & Sistem Durumu
 
 <div align="center">
   
@@ -150,10 +150,32 @@ graph LR
 
   <br/><br/>
 
-  <!-- GITHUB TROPHIES (REPLACED BROKEN ACTIVITY GRAPH) -->
-  <a href="https://github.com/theturuk">
-    <img src="https://github-profile-trophy.vercel.app/?username=theturuk&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%" alt="GitHub Trophies" />
-  </a>
+  <!-- NATIVE SYSTEM TELEMETRY MATRIX (ZERO EXTERNAL DOWNTIME) -->
+  <table width="100%">
+    <thead>
+      <tr>
+        <th width="33%">🛡️ Stealth & Scraping Engine</th>
+        <th width="33%">🤖 AI & MCP Integration</th>
+        <th width="33%">⚡ High-Concurrency Core</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ffcc?style=for-the-badge&logo=statuspage&logoColor=black" /><br/><br/>
+          <sub>Headless Browsers, Fingerprint Bypass & Rotating Proxy Tunnels</sub>
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/AGENTS-ACTIVE-00ffcc?style=for-the-badge&logo=probot&logoColor=black" /><br/><br/>
+          <sub>Local Ollama Models, Custom MCP Servers & Autonomous Workflows</sub>
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/UPTIME-99.9%25-00ffcc?style=for-the-badge&logo=cloudflare&logoColor=black" /><br/><br/>
+          <sub>Full-Stack Next.js UI, Distributed Queues & Edge APIs</sub>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
 </div>
 

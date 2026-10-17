@@ -9,5 +9,5 @@ I'm a **Software Developer** passionate about building scalable web applications
 - **Mobile & Network:** Android Development, Proxy/Tunneling Protocols, Network Utilities
 
 #### 📫 Connect with Me
-- 🌐 Portfolio / Website: [Your Website Link]
-- 💼 LinkedIn: [Your LinkedIn Link]
+- 🌐 Portfolio / Website: soon
+- 💼 LinkedIn: [https://www.linkedin.com/in/theturuk](https://www.linkedin.com/in/theturuk)

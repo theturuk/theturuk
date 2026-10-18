@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24">
+<defs>
+  <linearGradient id="base" x1="0" x2="1"><stop offset="0" stop-color="#00ffcc" stop-opacity="0"/><stop offset=".5" stop-color="#00ffcc" stop-opacity=".35"/><stop offset="1" stop-color="#00ffcc" stop-opacity="0"/></linearGradient>
+  <linearGradient id="pulse" x1="0" x2="1"><stop offset="0" stop-color="#00ffcc" stop-opacity="0"/><stop offset=".8" stop-color="#00ffcc"/><stop offset="1" stop-color="#fff"/></linearGradient>
+  <filter id="g"><feGaussianBlur stdDeviation="2.5"/></filter>
+</defs>
+<style>.p{animation:mv 3.2s cubic-bezier(.6,0,.4,1) infinite}@keyframes mv{from{transform:translateX(-220px)}to{transform:translateX(1000px)}}</style>
+<rect x="0" y="11.5" width="1000" height="1" fill="url(#base)"/>
+<g class="p"><rect y="10" width="200" height="4" rx="2" fill="url(#pulse)" filter="url(#g)"/><rect y="11" width="200" height="2" rx="1" fill="url(#pulse)"/></g>
+<rect x="496" y="8" width="8" height="8" transform="rotate(45 500 12)" fill="#02040a" stroke="#00ffcc"/>
+</svg>

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f172a,100:00ffcc&height=260&section=header&text=theturuk&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Automation%20Architect%20%E2%80%A2%20AI%20Workflows&descAlignY=62&descSize=18&stroke=00ffcc&strokeWidth=1" width="100%" alt="theturuk" />
+<img src="./assets/hero.svg" width="100%" alt="theturuk" />
 
 <a href="https://github.com/theturuk">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00FFCC&center=true&vCenter=true&width=860&height=45&lines=%3E+Architecting+scalable+web+apps+%26+automation+systems_;%3E+Shipping+local+LLM+agents+with+Ollama+%2B+MCP_;%3E+Engineering+headless+scrapers+%26+proxy+tunnels_;%3E+Turning+repetitive+work+into+autonomous+workflows_" alt="Typing SVG" />
@@ -21,28 +21,15 @@
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 ### ⚡ `whoami` // Sistem Profili
 
-```text
-root@theturuk:~$ neofetch
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="neofetch" />
+</div>
 
-     ████████████████████        fatih@theturuk
-     ████████████████████        ───────────────────────────────────────────
-            ██████               Alias     →  vx0r
-            ██████               Role      →  Full-Stack Dev & Automation Architect
-            ██████               Web       →  Next.js · React · TypeScript · Tailwind
-            ██████               Backend   →  Node.js · Python · Playwright · Puppeteer
-            ██████               AI        →  Ollama · MCP Servers · Autonomous Agents
-            ██████               Mobile    →  Native & Cross-Platform Android
-            ██████               Network   →  Proxy · Tunneling · Cloudflare Workers
-            ██████               Mission   →  Tekrar eden her işi otonom bir sisteme çevirmek
-
-                                 ███ ███ ███ ███ ███ ███ ███ ███
-```
-
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 ### 🚀 `what_i_build` // Neler İnşa Ediyorum
 
@@ -89,7 +76,7 @@ root@theturuk:~$ neofetch
   </tr>
 </table>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 ### 🛠️ `tech_stack` // Arsenal
 
@@ -99,19 +86,17 @@ root@theturuk:~$ neofetch
   <img src="https://skillicons.dev/icons?i=graphql,androidstudio,cloudflare,docker,nginx,linux,bash,git&theme=dark" alt="Stack 2" />
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 ### 🗂️ `featured_projects` // Öne Çıkan Projeler
 
-<!-- ✏️ REPO_1 … REPO_4 yerine kendi repo adlarını yaz -->
 <div align="center">
-  <a href="https://github.com/theturuk/REPO_1"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theturuk&repo=REPO_1&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" alt="REPO_1" /></a>
-  <a href="https://github.com/theturuk/REPO_2"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theturuk&repo=REPO_2&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" alt="REPO_2" /></a>
-  <a href="https://github.com/theturuk/REPO_3"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theturuk&repo=REPO_3&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" alt="REPO_3" /></a>
-  <a href="https://github.com/theturuk/REPO_4"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theturuk&repo=REPO_4&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" alt="REPO_4" /></a>
+  <img src="./assets/projects.svg" width="100%" alt="Private projects" />
+  <br/>
+  <sub>🔒 Aktif projeler şu an private — erişim için iletişime geç.</sub>
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 ### 🧬 `architecture` // Sistem Mimarisi
 
@@ -155,14 +140,13 @@ flowchart LR
     style OPS fill:#020617,stroke:#1e293b,color:#94a3b8
 ```
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 ### 📊 `telemetry` // GitHub İstatistikleri
 
 <div align="center">
 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=theturuk&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theturuk&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00ffcc&text_color=c9d1d9" alt="Top Languages" />
 
   <br/>
 
@@ -179,7 +163,7 @@ flowchart LR
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 ### 🐍 `contribution_snake` // Katkı Grafiğimi Yiyen Yılan
 
@@ -192,7 +176,7 @@ flowchart LR
   </picture>
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 <div align="center">
 

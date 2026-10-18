@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+<defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00ffcc"/><stop offset="1" stop-color="#a855f7"/></linearGradient></defs>
+<style>
+  text{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace}
+  .name{font-size:24px;font-weight:700;fill:#f1f5f9}
+  .stamp{font-size:14px;font-weight:800;fill:#ff2bd6;letter-spacing:3px}
+  .meta{font-size:13px;fill:#94a3b8;letter-spacing:1.5px}
+  .enc{font-size:18px;fill:#00ffcc;opacity:.55;letter-spacing:2px;animation:flick 2.8s steps(1) infinite}
+  .led{fill:#00ffcc;animation:blink 1.4s ease-in-out infinite}
+  .edge{stroke-dasharray:22 78;animation:run 4s linear infinite}
+  @keyframes run{to{stroke-dashoffset:-100}}
+  @keyframes blink{50%{opacity:.2}}
+  @keyframes flick{0%{opacity:.55}30%{opacity:.25}31%{opacity:.7}60%{opacity:.4}61%{opacity:.6}}
+</style>
+<g transform="translate(10 12)">
+  <rect width="480" height="196" rx="12" fill="#0b1020" stroke="#1e293b"/>
+  <rect class="edge" width="480" height="196" rx="12" fill="none" stroke="url(#edge)" stroke-width="2" pathLength="100" style="animation-delay:0s"/>
+  <g transform="translate(26 28)">
+    <rect x="0" y="12" width="26" height="20" rx="3" fill="none" stroke="#00ffcc" stroke-width="2.2"/>
+    <path d="M5 12V7a8 8 0 0 1 16 0v5" fill="none" stroke="#00ffcc" stroke-width="2.2"/>
+    <circle cx="13" cy="22" r="2.6" fill="#00ffcc"/>
+  </g>
+  <text class="name" x="68" y="54">finanspanels</text>
+  <rect x="330" y="30" width="124" height="28" rx="4" fill="none" stroke="#ff2bd6" stroke-width="1.6" transform="rotate(-6 392 44)"/>
+  <text class="stamp" x="392" y="49" text-anchor="middle" transform="rotate(-6 392 44)">CLASSIFIED</text>
+  <text class="meta" x="26" y="96">PRIVATE REPOSITORY · ACCESS RESTRICTED</text>
+  <text class="enc" x="26" y="128" style="animation-delay:0s">▓▒░█▓░▒▓█░▒▓▓░█▒░▓▒█░▓▒░</text>
+  <circle cx="32" cy="166" r="6" fill="#3178c6"/>
+  <text class="meta" x="46" y="171">TypeScript</text>
+  <text class="meta" x="454" y="171" text-anchor="end"><tspan class="led">●</tspan> ENCRYPTED</text>
+</g>
+<g transform="translate(510 12)">
+  <rect width="480" height="196" rx="12" fill="#0b1020" stroke="#1e293b"/>
+  <rect class="edge" width="480" height="196" rx="12" fill="none" stroke="url(#edge)" stroke-width="2" pathLength="100" style="animation-delay:-2s"/>
+  <g transform="translate(26 28)">
+    <rect x="0" y="12" width="26" height="20" rx="3" fill="none" stroke="#00ffcc" stroke-width="2.2"/>
+    <path d="M5 12V7a8 8 0 0 1 16 0v5" fill="none" stroke="#00ffcc" stroke-width="2.2"/>
+    <circle cx="13" cy="22" r="2.6" fill="#00ffcc"/>
+  </g>
+  <text class="name" x="68" y="54">cuscet-label</text>
+  <rect x="330" y="30" width="124" height="28" rx="4" fill="none" stroke="#ff2bd6" stroke-width="1.6" transform="rotate(-6 392 44)"/>
+  <text class="stamp" x="392" y="49" text-anchor="middle" transform="rotate(-6 392 44)">CLASSIFIED</text>
+  <text class="meta" x="26" y="96">PRIVATE REPOSITORY · ACCESS RESTRICTED</text>
+  <text class="enc" x="26" y="128" style="animation-delay:0.7s">▓▒░█▓░▒▓█░▒▓▓░█▒░▓▒█░▓▒░</text>
+  <circle cx="32" cy="166" r="6" fill="#3178c6"/>
+  <text class="meta" x="46" y="171">TypeScript</text>
+  <text class="meta" x="454" y="171" text-anchor="end"><tspan class="led">●</tspan> ENCRYPTED</text>
+</g>
+</svg>

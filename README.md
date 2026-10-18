@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/theturuk/"><img src="https://img.shields.io/badge/Instagram-@theturuk-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram" /></a>
 <a href="https://github.com/theturuk?tab=followers"><img src="https://img.shields.io/github/followers/theturuk?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=00ffcc&color=0d1117&labelColor=000000" alt="Followers" /></a>
 <a href="https://github.com/theturuk?tab=repositories"><img src="https://img.shields.io/github/stars/theturuk?affiliations=OWNER&label=STARS&style=for-the-badge&logo=github&logoColor=00ffcc&color=0d1117&labelColor=000000" alt="Stars" /></a>
-<img src="https://komarev.com/ghpvc/?username=theturuk&label=SYSTEM%20VIEWS&color=00ffcc&style=for-the-badge" alt="Profile Views" />
+<img src="https://hits.sh/github.com/theturuk.svg?style=for-the-badge&label=SYSTEM%20VIEWS&color=00ffcc&labelColor=000000" alt="Profile Views" />
 
 <br/><br/>
 
@@ -84,16 +84,6 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,python,fastapi&theme=dark" alt="Stack 1" />
   <br/>
   <img src="https://skillicons.dev/icons?i=graphql,androidstudio,cloudflare,docker,nginx,linux,bash,git&theme=dark" alt="Stack 2" />
-</div>
-
-<img src="./assets/divider.svg" width="100%" />
-
-### 🗂️ `featured_projects` // Öne Çıkan Projeler
-
-<div align="center">
-  <img src="./assets/projects.svg" width="100%" alt="Private projects" />
-  <br/>
-  <sub>🔒 Aktif projeler şu an private — erişim için iletişime geç.</sub>
 </div>
 
 <img src="./assets/divider.svg" width="100%" />
